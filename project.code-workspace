@@ -1,0 +1,28 @@
+{
+    "folders": [
+      {
+        "name": "🚀 root",
+        "path": "."
+      }
+    ],
+    "settings": {
+      "editor.formatOnPaste": false,
+      "editor.formatOnType": false,
+      "typescript.tsdk": "✨ root/node_modules/typescript/lib",
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+        "editor.formatOnSave": false
+      }
+    },
+    "extensions": {
+      "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "lightyen.tailwindcss-intellisense-twin",
+        "styled-components.vscode-styled-components",
+        "bradlc.vscode-tailwindcss"
+      ]
+    }
+  }
+  
